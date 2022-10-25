@@ -12,7 +12,7 @@ Sou auxiliar de TI na Athenas Consultoria Agricola e Laboratórios.
 
 ### :rocket: Técnologias
 - No backend uso **Python e NodeJS**
-- No frontend uso **ReactJS, HTML E JAVASCRIPT**
+- No frontend uso **ReactJS**
 - No mobile uso **React Native**
 - No Google Cloud uso **VM e Cloud Functions**
 - No AWS Services **S3 e Lambda Functions**
