@@ -7,7 +7,7 @@
 
 Meu nome é Vitor.
 Estudo na Faculdade de Tecnolgia de São Paulo no curso de Analise e Desenvolvimento de Sistemas :mortar_board:.
-Sou auxiliar de TI na Athenas Consultoria Agricola e Laboratórios.
+Sou analista de suporte de TI na Athenas Consultoria Agricola e Laboratórios.
 
 
 ### :rocket: Técnologias
