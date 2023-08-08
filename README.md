@@ -1,19 +1,19 @@
 <img align="right" height="300px" src="https://static3.tcdn.com.br/img/img_prod/460977/capacho_sem_codigo_sem_cafe_no_code_no_coffee_programacao_programador_ev_93381_1_0d15c46f05ec1bab09553bc8cafb807d.jpg" />
 
-# Seja bem-vindo! :grinning:
+# Oi :grinning:
 <a href="https://www.linkedin.com/in/vitor-de-almeida-ribeiro-5463b710b/">
   <img src="https://img.shields.io/badge/-vitoribeiro00-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-de-almeida-ribeiro-5463b710b/"/>
 </a>
 
 Meu nome é Vitor.
-Estudo na Faculdade de Tecnolgia de São Paulo no curso de Analise e Desenvolvimento de Sistemas :mortar_board:.
-Sou analista de suporte de TI na Athenas Consultoria Agricola e Laboratórios.
+Sou Tecnólogo em Analise e Desenvolvimento de Sistemas :mortar_board:.
+Atualmente estou como analista de suporte de TI na Athenas Consultoria Agricola e Laboratórios.
 
 
 ### :rocket: Técnologias
 - No backend uso **Python e NodeJS**
-- No frontend uso **ReactJS**
-- No mobile uso **React Native**
+- No frontend uso **ReactJS com NextJs**
+- No mobile uso **Expo/React Native**
 - No Google Cloud uso **VM e Cloud Functions**
 - No AWS Services **S3 e Lambda Functions**
 
