@@ -7,7 +7,7 @@
 
 Meu nome é Vitor.
 Sou Tecnólogo em Analise e Desenvolvimento de Sistemas :mortar_board:.
-Atualmente estou como analista de suporte de TI na Athenas Consultoria Agricola e Laboratórios.
+Atuo como Desenvolvedor FullStack no ramo financeiro e educacional
 
 
 ### :rocket: Técnologias
@@ -16,8 +16,6 @@ Atualmente estou como analista de suporte de TI na Athenas Consultoria Agricola 
 - No mobile uso **Expo/React Native**
 - No Google Cloud uso **VM e Cloud Functions**
 - No AWS Services **S3 e Lambda Functions**
-
-
 
 <!--
 **vitoribeiro00/vitoribeiro00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
