@@ -7,9 +7,9 @@
 
 Meu nome é Vitor.
 Sou Tecnólogo em Analise e Desenvolvimento de Sistemas :mortar_board:.
-
-Atuo direamente com times de produtos como Desenvolvedor FullStack no ramo financeiro e educacional
-
+<p>
+  Atuo direamente com times de produtos como Desenvolvedor FullStack no ramo financeiro e educacional
+</p>
 
 ### :rocket: Técnologias
 - No backend uso **Python e NodeJS**
